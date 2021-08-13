@@ -1,0 +1,62 @@
+[
+    {
+      "firstName": "Ram",
+      "lastName": "Adams",
+      "email": "Ram@gmail.com",
+      "age": 25
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Marley",
+      "email": "bob32@gmail.com",
+      "age": 26
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Cruz",
+      "email": "jane.cruz@gmail.com",
+      "age": 27
+    },
+    {
+      "firstName": "Anthony",
+      "lastName": "Muller",
+      "email": "amuller@gmail.com",
+      "age": 28
+    },
+    {
+      "firstName": "Joye",
+      "lastName": "Wildridge",
+      "email": "jWildridge@gmail.com",
+      "age": 29
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Protsman",
+      "email": "aaProtsman@gmail.com",
+      "age": 30
+    },
+    {
+      "firstName": "Siri",
+      "lastName": "Cree",
+      "email": "siric123@aol.com",
+      "age": 30
+    },
+    {
+      "firstName": "Marisa",
+      "lastName": "Banks",
+      "email": "maribanks@aol.com",
+      "age": 29
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Chessher",
+      "email": "gc234@aol.com",
+      "age": 28
+    },
+    {
+      "firstName": "Derick",
+      "lastName": "Beare",
+      "email": "derick.beare@aol.com",
+      "age": 27
+    }
+]

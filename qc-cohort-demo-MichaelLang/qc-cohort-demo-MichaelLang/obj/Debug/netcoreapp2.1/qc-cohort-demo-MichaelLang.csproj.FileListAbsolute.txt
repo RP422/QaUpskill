@@ -1,0 +1,11 @@
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\bin\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.deps.json
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\bin\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.runtimeconfig.json
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\bin\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.runtimeconfig.dev.json
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\bin\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.dll
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\bin\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.pdb
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\obj\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.csprojAssemblyReference.cache
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\obj\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.csproj.CoreCompileInputs.cache
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\obj\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.AssemblyInfoInputs.cache
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\obj\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.AssemblyInfo.cs
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\obj\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.dll
+Y:\Upskill\qc-cohort-demo-MichaelLang\qc-cohort-demo-MichaelLang\obj\Debug\netcoreapp2.1\qc-cohort-demo-MichaelLang.pdb
